@@ -339,7 +339,8 @@ dig google.com NS
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="1100" height="700" alt="Screenshot from 2026-06-25 12-38-55" src="https://github.com/user-attachments/assets/e0e11db1-0659-47e6-b1f1-9415eeead112" />
+
 
 ---
 
@@ -376,7 +377,8 @@ dig google.com MX
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="1099" height="429" alt="Screenshot from 2026-06-25 12-39-36" src="https://github.com/user-attachments/assets/03c0ec61-3aa4-4a22-9acc-ad4addbce386" />
+
 
 ---
 
@@ -432,7 +434,8 @@ dig https://www.google.com
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="1099" height="429" alt="Screenshot from 2026-06-25 12-40-11" src="https://github.com/user-attachments/assets/f017310f-8a0c-4ed6-89c4-69b438adb26a" />
+
 
 ---
 

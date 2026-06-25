@@ -550,7 +550,8 @@ subfinder -d facebook.com
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="718" height="654" alt="Screenshot from 2026-06-25 13-01-45" src="https://github.com/user-attachments/assets/44d155cf-a4fc-46a1-9bbb-9e315a83a709" />
+
 
 ---
 

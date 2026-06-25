@@ -102,7 +102,8 @@ This exposed backend database configuration details.
 
 ## Screenshot
 
-![Configuration Disclosure](Feroxbuster-config-disclosure.png)
+![Configuration Disclosure](<img width="1754" height="972" alt="Screenshot from 2026-06-11 11-04-27" src="https://github.com/user-attachments/assets/7cb21171-a2a8-486e-a06a-b7aac7a31e18" />
+)
 
 ---
 

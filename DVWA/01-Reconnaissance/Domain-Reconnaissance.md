@@ -29,7 +29,8 @@ whois google.com
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="1126" height="573" alt="Screenshot from 2026-06-25 12-35-22" src="https://github.com/user-attachments/assets/a5330bd2-81f0-4afa-9a89-b9da10045594" />
+
 
 ---
 

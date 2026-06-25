@@ -48,7 +48,8 @@ The scan successfully identified multiple directories and files exposed by the w
 
 ## Screenshot
 
-![Feroxbuster Scan Output](Feroxbuster-scan-output.png)
+![Feroxbuster Scan Output](<img width="1754" height="972" alt="Screenshot from 2026-06-11 11-04-27" src="https://github.com/user-attachments/assets/9d0e1547-4c3f-4b63-9b6e-cc56bd15c436" />
+)
 
 ---
 

@@ -217,7 +217,8 @@ dig www.google.com A
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="1126" height="596" alt="Screenshot from 2026-06-25 12-32-47" src="https://github.com/user-attachments/assets/b4a7d81f-0a13-4140-b47e-6d327832e500" />
+
 
 ---
 

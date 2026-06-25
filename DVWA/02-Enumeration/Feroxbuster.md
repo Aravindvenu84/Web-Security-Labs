@@ -103,8 +103,9 @@ This exposed backend database configuration details.
 
 ## Screenshot
 
-![Configuration Disclosure](<img width="1754" height="972" alt="Screenshot from 2026-06-11 11-04-27" src="https://github.com/user-attachments/assets/7cb21171-a2a8-486e-a06a-b7aac7a31e18" />
-)
+![Configuration Disclosure] <img width="1231" height="905" alt="Screenshot from 2026-06-11 12-22-49" src="https://github.com/user-attachments/assets/68647889-ffa3-44fe-b23e-d4fba3a5cb5a" />
+
+
 
 ---
 

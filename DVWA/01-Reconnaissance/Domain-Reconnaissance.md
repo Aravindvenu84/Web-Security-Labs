@@ -218,7 +218,8 @@ dig www.google.com A
 
 ## Screenshot
 
-> <img width="1126" height="596" alt="Screenshot from 2026-06-25 12-32-47" src="https://github.com/user-attachments/assets/b4a7d81f-0a13-4140-b47e-6d327832e500" />
+> <img width="1126" height="573" alt="image" src="https://github.com/user-attachments/assets/4dbad5f5-83fa-4d9c-8be6-624b849953d3" />
+
 
 
 ---
@@ -303,7 +304,8 @@ dig www.google.com AAAA
 
 ## Screenshot
 
-> Insert Screenshot Here
+> <img width="1126" height="596" alt="Screenshot from 2026-06-25 12-32-47" src="https://github.com/user-attachments/assets/8994063f-3e28-4625-ac5a-f2894bf8a16a" />
+
 
 ---
 

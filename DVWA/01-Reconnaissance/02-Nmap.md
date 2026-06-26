@@ -533,5 +533,3 @@ nmap --script vuln TARGET
 
 Happy Hacking! 🚀
 
-```
-```

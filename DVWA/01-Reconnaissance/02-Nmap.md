@@ -1,4 +1,4 @@
-````markdown
+
 # Nmap - Complete Guide
 
 > A practical guide to using Nmap for reconnaissance, enumeration, and service discovery during penetration testing and cybersecurity labs.
@@ -54,7 +54,7 @@ It is one of the most important tools used in:
 
 ```bash
 sudo apt install nmap
-````
+```
 
 ## Ubuntu
 

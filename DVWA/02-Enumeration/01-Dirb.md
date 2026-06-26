@@ -1,4 +1,4 @@
-````markdown
+
 # DIRB - Complete Guide
 
 > A practical guide to using DIRB for web content discovery during authorized penetration testing and security assessments.
